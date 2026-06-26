@@ -12,7 +12,7 @@ I build custom systems for agencies and businesses.
 - CRM systems with AI integration
 
 **Products:**
-- [Lex Facchinetti](https://cuadrogroup.com/lex-facchinetti/) - Law Firm CRM
+- [Lex Facchinetti](https://cuadrogroup.com/lex-facchinetti/) - Law Firm CRM - Unified legal dashboard with case management, AI search, and client tracking
 - [Lyra AI](https://lyra.cuadrogroup.com/) - AI voice agents that answer calls, qualify leads, and book appointments autonomously, 24/7
 - [Fiscuss](https://cuadrogroup.com/avatar-content-automation-workflow/) - Video content with AI avatars, from text to social video in minutes
 - [Leadio](https://devash.pro/leadio) - Lead management CRM with Cal.com sync & Fathom AI
