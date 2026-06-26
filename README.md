@@ -21,6 +21,6 @@ I build custom systems for agencies and businesses.
 - [Minimal Checkout](https://devash.pro/custom-checkout) - Stripe-style WooCommerce checkout
 - [Libraria Digitale](https://cuadrogroup.com/libraie-digitale-prompt-library/) - A rich prompt library with management system
 
-**Stack:** PHP, JavaScript, React, Python, WordPress, WooCommerce, REST APIs, Firebase
+**Skills:** Docker, Kubernetes, Claude Code, Prompt Engineering, Agentic Build, Cache Management, Object Storage Mangement, n8n, Rust, C, Redis, Ollama, Local LLM, AI Memory Architecture, VPS Management, Google Cloud Console, Tailscale, Traefik, Cloudflare, PostgreSQL, FastAPI, JavaScript, React, Python, Celery, Beautiful Soup, WordPress, WooCommerce, REST APIs, Firebase
 
 [devash.pro](https://devash.pro) | [LinkedIn](https://www.linkedin.com/in/hiashraful/) | [X](https://x.com/DevAshWp)
